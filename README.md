@@ -4,7 +4,7 @@
 git clone https://github.com/your_username/note-taking-app.git
 
 2. Install the dependencies:
-cd note-taking-app
+cd note-taking-app\n
 pip install -r requirements.txt
 
 3. Set up the database:
